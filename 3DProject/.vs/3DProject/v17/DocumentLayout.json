@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\assets\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|c:\\users\\domin\\desktop\\game programing 2\\3dproject\\assets\\troublemakerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\troublemakerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\assets\\scripts\\randommovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\randommovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\assets\\scripts\\controllerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\assets\\scripts\\customerbehaviorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customerbehaviorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerBehaviorScript.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\Scripts\\CustomerBehaviorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomerBehaviorScript.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\Scripts\\CustomerBehaviorScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomerBehaviorScript.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:07:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomMovementScript.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\Scripts\\RandomMovementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RandomMovementScript.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\Scripts\\RandomMovementScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RandomMovementScript.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:56:25.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TroubleMakerBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\TroubleMakerBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\TroubleMakerBehavior.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\TroubleMakerBehavior.cs",
+              "RelativeToolTip": "Assets\\TroubleMakerBehavior.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:44:56.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManagerScript.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\GameManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManagerScript.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\GameManagerScript.cs",
+              "RelativeToolTip": "Assets\\GameManagerScript.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:20:48.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControllerScript.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\Scripts\\ControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControllerScript.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\Game Programing 2\\3DProject\\Assets\\Scripts\\ControllerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControllerScript.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:00:41.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
